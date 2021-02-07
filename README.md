@@ -1,4 +1,4 @@
-### Copy/Create below lines at **/home/<loginUser>/.npmrc**
+### Copy/Create below lines at **/home/loginUserProfilePath/.npmrc**
 //npm.pkg.github.com/:_authToken=<READ ACCESS TOKEN>
 //registry.npmjs.org
   
